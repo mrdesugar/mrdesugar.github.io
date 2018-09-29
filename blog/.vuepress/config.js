@@ -9,7 +9,7 @@ module.exports = {
             {
                 text: 'Tools',
                 items: [
-                    {text: 'Json Editor', link: '/tool/json.html'},
+                    {text: 'Json Editor', link: '/tools/json.html'},
                 ]
             }
         ]
