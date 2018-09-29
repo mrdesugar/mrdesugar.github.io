@@ -1,0 +1,24 @@
+{
+  "name": "mrdesugar.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "scripts": {
+    "blog:dev": "vuepress dev blog",
+    "blog:build": "vuepress build blog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdesugar/mrdesugar.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdesugar/mrdesugar.github.io/issues"
+  },
+  "homepage": "https://github.com/mrdesugar/mrdesugar.github.io#readme"
+}
